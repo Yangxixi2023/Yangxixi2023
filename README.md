@@ -1,16 +1,13 @@
-## Hi there 👋
+# Yuxiang Yan
 
-<!--
-**Yangxixi2023/Yangxixi2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Undergraduate student at **Tsinghua University**.
 
-Here are some ideas to get you started:
+## Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tsinghua University**
+Fields of Study: **Mathematical and Physical Basic Sciences & Software Engineering**
+Sep 2023 – Jul 2027
+
+## Contact
+
+Email: [yan-yx23@mails.tsinghua.edu.cn](mailto:yan-yx23@mails.tsinghua.edu.cn)
